@@ -71,7 +71,7 @@ class _WorkoutpageWidgetState extends State<WorkoutpageWidget> {
                 const Align(
                   alignment: AlignmentDirectional(0.0, -0.53),
                   child: FlutterFlowYoutubePlayer(
-                    url: 'https://youtu.be/enYITYwvPAQ?si=aluVTaaTVB3lqUUs',
+                    url: 'https://youtu.be/cbKkB3POqaY?si=ds2UEvJsyFgGOQbx',
                     autoPlay: false,
                     looping: true,
                     mute: false,
